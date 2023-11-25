@@ -53,13 +53,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighestRankNumberArray", "H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordA10nAbbreviation", "WordA10nAbbreviation\WordA10nAbbreviation.csproj", "{56BCE1EF-6DB3-49FD-88BA-8BAA4C0B2DFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheOddInt", "FindTheOddInt\FindTheOddInt.csproj", "{05EC5893-953A-46EE-B14F-9EB42A27B7AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheOddInt", "FindTheOddInt\FindTheOddInt.csproj", "{05EC5893-953A-46EE-B14F-9EB42A27B7AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestToZero", "ClosestToZero\ClosestToZero.csproj", "{952C4674-4AC9-4940-93DF-E997E58EA951}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClosestToZero", "ClosestToZero\ClosestToZero.csproj", "{952C4674-4AC9-4940-93DF-E997E58EA951}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersWithThisDigitInside", "NumbersWithThisDigitInside\NumbersWithThisDigitInside.csproj", "{A6A017FD-432F-4E90-945F-299AA2E50FDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersWithThisDigitInside", "NumbersWithThisDigitInside\NumbersWithThisDigitInside.csproj", "{A6A017FD-432F-4E90-945F-299AA2E50FDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArayByValueAndIndex", "SortArayByValueAndIndex\SortArayByValueAndIndex.csproj", "{84100FA9-D3A6-4215-A05A-F6B3836BB828}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortArayByValueAndIndex", "SortArayByValueAndIndex\SortArayByValueAndIndex.csproj", "{84100FA9-D3A6-4215-A05A-F6B3836BB828}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortByHeight", "SortByHeight\SortByHeight.csproj", "{C7F2A5C0-19B8-43CC-A175-C8BAD4A024B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequiredData", "RequiredData\RequiredData.csproj", "{2615E7CF-5C09-4E89-BFB4-1A0FE870CFC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAlignJustify", "TextAlignJustify\TextAlignJustify.csproj", "{39858215-F1E2-42B2-8059-C8547A7088C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +189,18 @@ Global
 		{84100FA9-D3A6-4215-A05A-F6B3836BB828}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84100FA9-D3A6-4215-A05A-F6B3836BB828}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84100FA9-D3A6-4215-A05A-F6B3836BB828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7F2A5C0-19B8-43CC-A175-C8BAD4A024B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F2A5C0-19B8-43CC-A175-C8BAD4A024B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F2A5C0-19B8-43CC-A175-C8BAD4A024B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F2A5C0-19B8-43CC-A175-C8BAD4A024B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2615E7CF-5C09-4E89-BFB4-1A0FE870CFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2615E7CF-5C09-4E89-BFB4-1A0FE870CFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2615E7CF-5C09-4E89-BFB4-1A0FE870CFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2615E7CF-5C09-4E89-BFB4-1A0FE870CFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39858215-F1E2-42B2-8059-C8547A7088C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39858215-F1E2-42B2-8059-C8547A7088C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39858215-F1E2-42B2-8059-C8547A7088C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39858215-F1E2-42B2-8059-C8547A7088C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
